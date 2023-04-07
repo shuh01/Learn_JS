@@ -8,25 +8,25 @@
     <div id="counter">0</div>
     <button id="increase">+</button>
     <button id="decrease">-</button>
-    <script src = "index.js">
-        // const $counter = document.getElementById('counter');
-        // const $increase = document.getElementById('increase');
-        // const $decrease = document.getElementById('decrease');
+    <script>
+        const $counter = document.getElementById('counter');
+        const $increase = document.getElementById('increase');
+        const $decrease = document.getElementById('decrease');
 
-        // let num = 0;
-        // const render = function () { $counter.innerHTML = num; };
+        let num = 0;
+        const render = function () { $counter.innerHTML = num; };
 
-        // $increase.onclick = function () {
-        //     num++;
-        //     console.log('clicked increase button', num);
-        //     render();
-        // };
+        $increase.onclick = function () {
+            num++;
+            console.log('clicked increase button', num);
+            render();
+        };
 
-        // $decrease.onclick = function () {
-        //     num--;
-        //     console.log('clicked decrease button', num);
-        //     render();
-        // };
+        $decrease.onclick = function () {
+            num--;
+            console.log('clicked decrease button', num);
+            render();
+        };
 
     </script>
 </body>

@@ -10,3 +10,4 @@ Study plan: Everyday at least 1 hour or at least 50 pages
 | Day      | Chapter | Content     |
 | :---:        |    :----:   |         :---: |
 | 01      | Ch 01 - 04       | Installation, Dev Env., Variables   |
+| 02      | Ch 05 - 08       | Expressions, Data types, Operators, Statements   |

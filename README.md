@@ -12,4 +12,4 @@ Study plan: Everyday at least 1 hour or at least 50 pages
 | 01      | Ch 01 - 04       | Installation, Dev Env., Variables   |
 | 02      | Ch 05 - 08       | Expressions, Data types, Operators, Statements   |
 | 03      | Ch 09 - 10       | Type Coersion, Object Literals |
-| 04      | Ch 10 -          |                      |
+| 04      | Ch 11 -          |                      |

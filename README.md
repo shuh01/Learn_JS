@@ -9,8 +9,8 @@ Study plan: Everyday at least 1 hour or at least 50 pages
 
 | Day      | Chapter | Content     |
 | :---:        |    :----:   |         :---: |
-| 02      | Ch 01 - 04       | Installation, Dev Env., Variables   |
-| 03      | Ch 05 - 08       | Expressions, Data types, Operators, Statements   |
-| 04      | Ch 09 - 10       | Type Coersion, Object Literals |
-| 05      | Ch 11 - 12       | Primitive vs. Object, Functions |
-| 06      | Ch 13 - 16       | Scope, Problems of global variables, let, const, and block-level scope, property attributes |
+| 01      | Ch 01 - 04       | Installation, Dev Env., Variables   |
+| 02      | Ch 05 - 08       | Expressions, Data types, Operators, Statements   |
+| 03      | Ch 09 - 10       | Type Coersion, Object Literals |
+| 04      | Ch 11 - 12       | Primitive vs. Object, Functions |
+| 05      | Ch 13 - 16       | Scope, Problems of global variables, let, const, and block-level scope, property attributes |

@@ -14,4 +14,4 @@ Study plan: Everyday at least 1 hour or at least 50 pages
 | 03      | Ch 09 - 10       | Type Coersion, Object Literals |
 | 04      | Ch 11 - 12       | Primitive vs. Object, Functions |
 | 05      | Ch 13 - 16       | Scope, Problems of global variables, let, const, and block-level scope, property attributes |
-| 06      | Ch 17 - 19       | Constructor functions, Functions and first-class citizens, Prototype |
+| 06      | Ch 17 - 19       | Constructor functions, Functions and first-class Objects, Prototype |

@@ -15,3 +15,4 @@ Study plan: Everyday at least 1 hour or at least 50 pages
 | 04      | Ch 11 - 12       | Primitive vs. Object, Functions |
 | 05      | Ch 13 - 16       | Scope, Problems of global variables, let, const, and block-level scope, property attributes |
 | 06      | Ch 17 - 19       | Constructor functions, Functions and first-class Objects, Prototype |
+| 07      | Ch 20 - 23       | Strict mode, Built-in Object, this, Execution Context |

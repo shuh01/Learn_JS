@@ -1,4 +1,4 @@
-# Learn_JS
+# Learn_JavaScript
 
 Learning Javascript (including Node.JS in the future after I reach certain level on Vanilla JS) for my personal interest in Javascript.
 JavaScript, in my personal opinion, is very attractive language to learn because it is basically used in almost every websites in the world, and it can also cover the back-end as well. 
@@ -15,3 +15,6 @@ Currently using JS textbooks and online video lectures to learn.
 | 05      | Ch 13 - 16       | Scope, Problems of global variables, let, const, and block-level scope, property attributes |
 | 06      | Ch 17 - 19       | Constructor functions, Functions and first-class Objects, Prototype |
 | 07      | Ch 20 - 23       | Strict mode, Built-in Object, this, Execution Context |
+
+# React.js
+https://nomadcoders.co/react-for-beginners/lobby?utm_source=free_course&utm_campaign=react-for-beginners&utm_medium=site

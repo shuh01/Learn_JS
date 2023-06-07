@@ -5,7 +5,6 @@ JavaScript, in my personal opinion, is very attractive language to learn because
 Currently using JS textbooks and online video lectures to learn.
 
 # Modern JavaScript Deep Dive (Apr 8, 2023 ~)
-Study plan: Everyday at least 1 hour or at least 50 pages
 
 | Day      | Chapter | Content     |
 | :---:        |    :----:   |         :---: |

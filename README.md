@@ -16,6 +16,7 @@ Currently using JS textbooks and online video lectures to learn.
 | 06      | Ch 17 - 19       | Constructor functions, Functions and first-class Objects, Prototype |
 | 07      | Ch 20 - 23       | Strict mode, Built-in Object, this, Execution Context |
 | 08      | Ch 24 - 25       | Closures, Class  |
+| 09      | Ch 26 - 27       | Functions in ES6, Array |
 
 # React.js
 https://nomadcoders.co/react-for-beginners/lobby?utm_source=free_course&utm_campaign=react-for-beginners&utm_medium=site

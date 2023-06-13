@@ -17,6 +17,7 @@ Currently using JS textbooks and online video lectures to learn.
 | 07      | Ch 20 - 23       | Strict mode, Built-in Object, this, Execution Context |
 | 08      | Ch 24 - 25       | Closures, Class  |
 | 09      | Ch 26 - 27       | Functions in ES6, Array |
+| 10      | Ch 28 - 30       | Number, Math, Date |
 
 # React.js
 https://nomadcoders.co/react-for-beginners/lobby?utm_source=free_course&utm_campaign=react-for-beginners&utm_medium=site

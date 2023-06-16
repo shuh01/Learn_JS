@@ -20,6 +20,7 @@ Currently using JS textbooks and online video lectures to learn.
 | 10      | Ch 28 - 30       | Number, Math, Date |
 | 11      | Ch 31 - 33       | RegExp, String, Symbol |
 | 12      | Ch 34 - 36       | Iterable, Spread Syntax, Destructuring Assignment |
+| 13      | Ch 37            | Set, Map |
 
 # React.js
 https://nomadcoders.co/react-for-beginners/lobby?utm_source=free_course&utm_campaign=react-for-beginners&utm_medium=site

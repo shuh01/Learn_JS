@@ -4,7 +4,7 @@ Learning Javascript (including Node.JS in the future after I reach certain level
 JavaScript, in my personal opinion, is very attractive language to learn because it is basically used in almost every websites in the world, and it can also cover the back-end as well. 
 Currently using JS textbooks and online video lectures to learn.
 
-# Modern JavaScript Deep Dive (Apr 8, 2023 ~)
+# Modern JavaScript Deep Dive (Apr 8, 2023 ~ Jun 27, 2023)
 
 | Day      | Chapter | Content     |
 | :---:        |    :----:   |         :--- |
